@@ -7,8 +7,9 @@
 
 <br> 
 
-## EXERCÍCIO 1 👉 [Clique aqui🖱](./Aula%201/Exercício%201)
-## EXERCÍCIO 2 👉 [Clique aqui🖱](./Aula%203/Exercício%202)
+## EXERCÍCIO 1 👉 [Clique aqui 🖱](./Aula%201/Exercício%201)
+## EXERCÍCIO 2 👉 [Clique aqui 🖱](./Aula%203/Exercício%202)
+## REPOSITÓRIO DA SEMANA 2 👉 [Clique aqui 🖱](https://github.com/lucarauj/School-Node-MJV-Semana-2)
 
 <br>
 
